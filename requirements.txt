@@ -1,0 +1,13 @@
+python-dotenv
+notebook
+praw
+spacy
+pandas
+beautifulsoup4
+newspaper3k
+lxml_html_clean
+nltk
+scikit-learn
+fuzzywuzzy
+python-Levenshtein
+tweepy
